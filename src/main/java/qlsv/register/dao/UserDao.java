@@ -12,10 +12,10 @@ public class UserDao {
     }
     
     public boolean checkEmail(User user) {
-        return "hvan@edu.vn".equals(user.getEmail());
+        return "1".equals(user.getEmail());
     }
     
     public boolean checkPassword(User user) {
-        return "matkhau".equals(user.getPassword());
+        return "1".equals(user.getPassword());
     }
 }
