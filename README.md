@@ -112,4 +112,5 @@ Bước 3: Mở Dự Án
     - ấn biểu đồ thống kê để xem biêu đồ thống kê về sinh viên và các môn học
     - ấn in để in ra danh sách sinh viên/ môn học
 * muốn quay trở lại thì ấn vào nút quay lại trên góc trái trên cùng của màn hình
-* muốn đăng xuất thì ra quay lại màn hình các chức năng và ấn đăng xuất ở nút bên phải trên cùng màn hình
+* muốn đăng xuất thì ra quay lại màn hình các chức năng và ấn đăng xuất ở nút bên phải trên cùng màn hình.
+* 
