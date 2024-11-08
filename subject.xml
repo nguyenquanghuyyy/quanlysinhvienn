@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<subjects>
+    <subject>
+        <credit>2</credit>
+        <exam>Tự luận</exam>
+        <IDclass>TTHCM</IDclass>
+        <name>Tư tưởng Hồ Chí Minh</name>
+        <quantity>25</quantity>
+        <registedStudent>7</registedStudent>
+        <teacher>Nguyễn Văn Long</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Kết hợp</exam>
+        <IDclass>MMT</IDclass>
+        <name>Mạng máy tính và viễn thông</name>
+        <quantity>30</quantity>
+        <registedStudent>6</registedStudent>
+        <teacher>Phạm Thị Thanh Thủy</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Thực hành</exam>
+        <IDclass>LTCB</IDclass>
+        <name>Lập trình cơ bản</name>
+        <quantity>25</quantity>
+        <registedStudent>5</registedStudent>
+        <teacher>Hoàng Hữu Hưng</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Thực hành</exam>
+        <IDclass>HDT</IDclass>
+        <name>Lập trình hướng đối tượng</name>
+        <quantity>2</quantity>
+        <registedStudent>2</registedStudent>
+        <teacher>Hà Thị Kim Dung</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Tự luận</exam>
+        <IDclass>LHS</IDclass>
+        <name>Luật Hình sự</name>
+        <quantity>50</quantity>
+        <registedStudent>9</registedStudent>
+        <teacher>Nguyễn Thị Thu Thùy</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Thực hành</exam>
+        <IDclass>MMT2</IDclass>
+        <name>Mạng máy tính và viễn thông</name>
+        <quantity>25</quantity>
+        <registedStudent>2</registedStudent>
+        <teacher>Lưu Xuân Văn</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <credit>3</credit>
+        <exam>Tự luận</exam>
+        <IDclass>CST</IDclass>
+        <name>Cơ sở toán</name>
+        <quantity>25</quantity>
+        <registedStudent>7</registedStudent>
+        <teacher>Nguyễn Thị Huyền</teacher>
+        <typeClass>Lý thuyết</typeClass>
+    </subject>
+    <subject>
+        <credit>3</credit>
+        <exam>Thực hành</exam>
+        <IDclass>TC1</IDclass>
+        <name>Giáo dục thể chất</name>
+        <quantity>25</quantity>
+        <registedStudent>7</registedStudent>
+        <teacher>Nguyễn Văn Long</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+    <subject>
+        <credit>2</credit>
+        <exam>Trắc nghiệm</exam>
+        <IDclass>QP1</IDclass>
+        <name>Giáo dục quốc phòng</name>
+        <quantity>25</quantity>
+        <registedStudent>7</registedStudent>
+        <teacher>Hà Ngọc Vở</teacher>
+        <typeClass>Thực hành</typeClass>
+    </subject>
+</subjects>

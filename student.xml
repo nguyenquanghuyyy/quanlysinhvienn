@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Student>
+    <student>
+        <address>Cao Bằng</address>
+        <dob>21/06/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT01</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Đỗ Duy Anh</name>
+        <registedCredit>5</registedCredit>
+        <subject>
+            <credit>2</credit>
+            <name>Mạng máy tính và viễn thông</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Thực hành</typeClass>
+        </subject>
+        <subject>
+            <credit>3</credit>
+            <name>Cơ sở toán</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Gia Lai</address>
+        <dob>11/03/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT06</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Văn Giang</name>
+        <registedCredit>1</registedCredit>
+        <subject>
+            <credit>1</credit>
+            <exam>Trắc nghiệm</exam>
+            <IDclass>bvsrdbre</IDclass>
+            <name>dbdb</name>
+            <quantity>1</quantity>
+            <registedStudent>1</registedStudent>
+            <teacher>bvrebgre</teacher>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Kon Tum</address>
+        <dob>01/01/2000</dob>
+        <gender>Nữ</gender>
+        <ID>AT08</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Thanh Hòa</name>
+        <registedCredit>2</registedCredit>
+        <subject>
+            <credit>2</credit>
+            <name>Tư tưởng Hồ Chí Minh</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Lạng Sơn</address>
+        <dob>02/09/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT09</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Quang Huy</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Gia Lai</address>
+        <dob>20/11/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT10</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Quang Khải</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Lâm Đồng</address>
+        <dob>03/05/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT11</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Đỗ Kiên</name>
+        <registedCredit>4</registedCredit>
+        <subject>
+            <credit>2</credit>
+            <name>Tư tưởng Hồ Chí Minh</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <subject>
+            <credit>2</credit>
+            <name>Mạng máy tính và viễn thông</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Thực hành</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Sơn La</address>
+        <dob>21/12/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT12</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Hoàng Kiên</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Gia Lai</address>
+        <dob>16/06/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT13</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Hải Long</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Gia Lai</address>
+        <dob>08/01/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT14</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Hoài Nam</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Bắc Ninh</address>
+        <dob>07/10/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT15</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Hải Nam</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Bắc Giang</address>
+        <dob>28/11/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT16</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Dương Ngọc</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>Lào Cai</address>
+        <dob>19/05/2004</dob>
+        <gender>Nam</gender>
+        <ID>AT03</ID>
+        <limitedCredit>14</limitedCredit>
+        <major>An toàn thông tin</major>
+        <name>Tiến Dũng</name>
+        <registedCredit>3</registedCredit>
+        <subject>
+            <credit>2</credit>
+            <name>Mạng máy tính và viễn thông</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Thực hành</typeClass>
+        </subject>
+        <subject>
+            <credit>1</credit>
+            <name>dbdb</name>
+            <quantity>0</quantity>
+            <registedStudent>0</registedStudent>
+            <typeClass>Lý thuyết</typeClass>
+        </subject>
+        <term>Kỳ IV</term>
+    </student>
+    <student>
+        <address>1</address>
+        <dob>01/01/2005</dob>
+        <gender>Nam</gender>
+        <ID>AT02</ID>
+        <limitedCredit>12</limitedCredit>
+        <major>Trinh sát an ninh</major>
+        <name>ga</name>
+        <registedCredit>0</registedCredit>
+        <term>Kỳ II</term>
+    </student>
+</Student>
